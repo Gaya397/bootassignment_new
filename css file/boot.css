@@ -1,0 +1,45 @@
+
+footer {
+     background-color: teal;
+    font-family: 'Arima Madurai', cursive;
+    text-align: center;
+}
+ /* .blank{
+    margin-left: 30px;
+    font-family: 'Arima Madurai', cursive;
+ }
+ .box
+ {
+    margin-left: 30px;
+    font-family: 'Arima Madurai', cursive;
+ } */
+ body{
+    width: 100%;
+    font-family: 'Arima Madurai', cursive;
+   
+}
+.container-fluid
+{
+    font-family: 'Arima Madurai', cursive;
+    background-color:whitesmoke;
+
+}
+.carousel-item
+{
+    font-family: 'Arima Madurai', cursive;
+    margin: 0px;
+}
+.jumbotron{
+    padding-block-end: 10px;
+    margin: 0px;
+    border-radius: 0px;
+    }
+ /* .social a{
+     margin-left: 30px;
+     font-size: 40px;
+     background-color: teal;
+ } */
+ .dropdown
+ {
+     text-decoration-color: brown;
+ }
